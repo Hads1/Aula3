@@ -1,0 +1,22 @@
+/* styles.css */
+.odd,
+.gss{
+
+    font-family: Helvetica, "times New Roman", sans-serif;
+    Font-size: 28px
+}
+
+
+.odd{
+    background-color: black;
+    color: white;
+    
+    
+}
+
+.gss{
+    background-color: yellow;
+    color: black;
+
+
+}
